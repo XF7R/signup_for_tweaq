@@ -60,16 +60,21 @@ main{
     gap: 20px;
     
 }
+section{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
 .add{
     text-align: center;
-    margin-bottom: 500px;
     width: 140%;
     height: 40px;
     background: linear-gradient( #34bcff , #9c84ff);
     border-radius: 12px;
-    
     color: white;
     border: none;
+    margin-bottom: 450px;
+    margin-right: 40px;
 }
 .card{
     width: 30%;
