@@ -77,13 +77,12 @@ margin-left: 220px;
     margin-right:5vh;
 }
 .card{
-    border-radius: 12vh;
+    border-radius: 12px;
     width: 30%;
     text-align: center;
-    height: 250px;
+    height: 200px;
     background-color: rgb(255, 255, 255);
-    border: 10px solid;
-    border-image: linear-gradient(to right, #34bcff, #9c84ff);
+    border: 10px solid  #9c84ff;
     border-image-slice: 1;
     transition: 0.4s ease;
 }
